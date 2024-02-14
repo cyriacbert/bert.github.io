@@ -149,6 +149,15 @@ transition: 2s;
 }
 
 
+.cv-button2 {
+    background-color: #70726E;
+    color: #fff; 
+    border: 2px solid #fff;
+    padding: 10px 60px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
 .banner {
     background-color: #70726E;
     padding: 20px;
